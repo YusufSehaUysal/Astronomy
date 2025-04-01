@@ -9,7 +9,7 @@ Telescope: Celestron AstroMaster 130EQ-MD CL 31051, 130mm (5.1-inch) aperture, f
 
 Camera: Samsung Galaxy A70, 16 MP (f/1.7, 26mm focal length)
 
-Filters Used: None (direct photograph from smartphone)
+Filters Used: None 
 
 Exposure Time: Approx. 1/500 seconds (auto exposure settings)
 
