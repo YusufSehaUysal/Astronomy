@@ -1,7 +1,7 @@
 ---
 layout: default
 include_analytics: true
-title: Astronomy
+title: My Astronomy Site
 ---
 
 # Photos
