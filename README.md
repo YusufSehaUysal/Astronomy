@@ -1,2 +1,2 @@
-# astronomy
-https://yusufsehauysal.github.io/astronomy/
+# Astronomy
+https://yusufsehauysal.github.io/Astronomy/
