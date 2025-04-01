@@ -1,5 +1,5 @@
 # Observation Date: October 31, 2020
-![Full Moon](moon-photo1.jpg)
+![Full Moon](20201031_191432.jpg)
 
 Time of Observation: 16:14 UTC
 Location: Antalya, Gazipaşa, Turkey
