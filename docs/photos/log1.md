@@ -78,7 +78,5 @@ The absence of filters means the image retains natural color tones, but slight o
 - No filters used, natural colors preserved but slight overexposure in bright areas.
 
 ---
-[🔙 Back to Observation Logs](https://yusufsehauysal.github.io/astronomy/index.md)
-
 [🔙 Back to Observation Logs](https://yusufsehauysal.github.io/astronomy/)
 
