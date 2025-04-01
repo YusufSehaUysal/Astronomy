@@ -1,5 +1,5 @@
 # Observation Date: October 31, 2020
-![Full Moon](docs/photos/20201031_191432.jpg)
+![Full Moon](photos/20201031_191432.jpg)
 
 Time of Observation: 16:14 UTC
 
