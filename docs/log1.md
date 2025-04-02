@@ -1,3 +1,8 @@
+---
+layout: default
+title: log1
+---
+
 # Observation Date: October 31, 2020
 ![Full Moon](photos/20201031_191432.jpg)
 
