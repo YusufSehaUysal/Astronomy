@@ -4,28 +4,12 @@
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>{{ page.title }}</title>
-    <link rel="stylesheet" href="/path/to/your/styles.css">
     
     {% if page.include_analytics %}
       {% include analytics.html %}
     {% endif %}
 </head>
 <body>
-  <div style="text-align: center; padding: 20px; position: absolute; top: 0; width: 100%; background-color: white;">
-    <a href="https://your-homepage-url.com" style="font-size: 24px; font-weight: bold; color: #333; text-decoration: none;">
-      Go to Homepage
-    </a>
-  </div>
-
-  <!-- Main header content -->
-  <header style="text-align: center; margin-top: 60px;"> <!-- Add margin to push content down -->
-    <h1>{{ page.title }}</h1> <!-- The title of the page will be inserted here -->
-  </header>
-
-    <footer>
-    <!-- Footer content -->
-  </footer>
-
   <main>
     {{ content }} <!-- This is where the main content of the page goes -->
   </main>
